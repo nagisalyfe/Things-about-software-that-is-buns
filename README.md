@@ -1,10 +1,19 @@
-## Stuff that sucks buns (according to Nagisa)
+# Things about software that is buns
+
+## Stuff that sucks buns (according to Nagisa):
 
 1. Operating Systems. (ALL OF THEM)
 2. Functional Programming. (R\*st, L\*sp)
 3. J*vascript
 4. P*P
 5. *++
+
+## Stuff that sucks buns (according to Humble):
+
+1. Meta, Inc.
+2. Facebook
+3. Instagram
+4. Reddit
 
 ## Stuff that doesn't suck buns (according to Nagisa):
 
